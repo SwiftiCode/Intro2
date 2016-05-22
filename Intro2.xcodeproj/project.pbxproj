@@ -146,7 +146,6 @@
 				TargetAttributes = {
 					205AB58A1CF0B245002CDF3B = {
 						CreatedOnToolsVersion = 7.3.1;
-						DevelopmentTeam = 3E3L6L75YM;
 					};
 					205AB59E1CF0B246002CDF3B = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -393,6 +392,7 @@
 				205AB5AA1CF0B246002CDF3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		205AB5AB1CF0B246002CDF3B /* Build configuration list for PBXNativeTarget "Intro2Tests" */ = {
 			isa = XCConfigurationList;
@@ -401,6 +401,7 @@
 				205AB5AD1CF0B246002CDF3B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
